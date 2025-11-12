@@ -1,10 +1,9 @@
 # ESILV_git
-This is
-Fun
-To use
-GitHUB
-with
-comrades
+2. "This is"
+3. "Fun"
+4. "To use"
+5. "GitHUB"
+6. "with comrades"
 This is a collaborative Git exercise.
 This is a collaborative Git exercise. azazaz
 Each student will add a paragraph below. dqfqefef
