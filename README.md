@@ -1,7 +1,7 @@
 # ESILV_git
 This is a collaborative Git exercise.
-Each student will add a paragraph below.
-Make sure to write something unique.
+Each student will add a paragraph below. Some changes
+Make sure to write something unique. Some changes 2
 Conflicts are fun to solve.
 aaaa
 bbbb
